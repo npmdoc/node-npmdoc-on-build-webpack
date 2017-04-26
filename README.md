@@ -1,4 +1,7 @@
-# api documentation for  [on-build-webpack (v0.1.0)](https://github.com/kossnocorp/on-build-webpack)  [![npm package](https://img.shields.io/npm/v/npmdoc-on-build-webpack.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-on-build-webpack) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-on-build-webpack.svg)](https://travis-ci.org/npmdoc/node-npmdoc-on-build-webpack)
+# npmdoc-on-build-webpack
+
+#### basic api documentation for  [on-build-webpack (v0.1.0)](https://github.com/kossnocorp/on-build-webpack)  [![npm package](https://img.shields.io/npm/v/npmdoc-on-build-webpack.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-on-build-webpack) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-on-build-webpack.svg)](https://travis-ci.org/npmdoc/node-npmdoc-on-build-webpack)
+
 #### Webpack plugin that gives ability to add callback after build
 
 [![NPM](https://nodei.co/npm/on-build-webpack.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/on-build-webpack)
@@ -51,7 +54,8 @@
         "url": "git+https://github.com/kossnocorp/on-build-webpack.git"
     },
     "scripts": {},
-    "version": "0.1.0"
+    "version": "0.1.0",
+    "bin": {}
 }
 ```
 
